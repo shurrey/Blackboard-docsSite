@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Schema Definitions" 
-purple-text-title: "Schema Definitions"
 categories: Learn b2
 id: learn-b2-opendb-schema-def
 author: Kelley MacEwen
 ---
+
+# Schema Definitions
+
 This article discusses the configuration and data required to define schema
 elements in a Building Block.
 

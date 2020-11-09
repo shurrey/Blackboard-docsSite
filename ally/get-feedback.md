@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Retrieve the feedback for a file" 
-purple-text-title: "Retrieve the feedback for a file"
 id: ally-getting-feedback
 categories: Ally
 author: Scott Hurrey
 ---
-
+# Retrieve the feedback for a file
 Once the file is processed, the feedback can be retrieved
 
 ## Endpoint

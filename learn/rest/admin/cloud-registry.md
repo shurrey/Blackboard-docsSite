@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Rest registry"
-purple-text-title: "Register Developer Instances to the Cloud"
 id: learn-rest-admin-cloud-registry
 categories: Learn Rest
 author: Scott Hurrey
 ---
+
+# Register Developer Instances to the Cloud
 
 You must register developer instances of Blackboard Learn to the Blackboard
 cloud. This is true of both developer virtual machines (DVM) that you host

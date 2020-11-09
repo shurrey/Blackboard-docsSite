@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Basic Authentication with REST"
-purple-text-title: "Basic Authentication with REST"
 id: learn-rest-gs-basic-auth
 categories: Learn REST
 doc_order_id: 0
 ---
+
+# Basic Authentication with REST
 
 ### Overview
 

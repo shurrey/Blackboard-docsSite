@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Ruby Demo"
-purple-text-title: "Demo using Ruby"
 id: learn-rest-examples-ruby-demo
 categories: Learn Rest
 author: Scott Hurrey
 ---
-
+# Demo using Ruby
 The rest demo script demonstrates authenticating a REST application,
 management and use of the authorization token, and creating, updating,
 discovering, and deleting supported Learn objects.

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "API Objects"
-purple-text-title: "API Objects"
 id: collab-api-objects
 categories: Collaborate
 ---
 
+# API Objects
 The Blackboard Collaborate API is built to allow a third-party application to perform scheduler operations. To handle this, the API exposes several objects that may or may not be familiar to you. In order to set the stage, here is a glossary of the API Objects in play.
 
 #### Session

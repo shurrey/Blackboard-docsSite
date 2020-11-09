@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Session Definitions
-purple-text-title: "Session Definitions"
 id: collab-session-definitions
 categories: Collaborate
 ---
+
+# Session Definitions
 
 In Blackbard Collaborate, Sessions are what lies at the center of everything. This is the virtual room that you enroll users to, share content, and host your live course events. The purpose of this document is to define the settings available to you, the developer, when you create a new session through the Collaborate REST API.
 

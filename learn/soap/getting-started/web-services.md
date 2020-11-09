@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Blackboard Learn SOAP"
-purple-text-title: "Blackboard Learn SOAP"
 id: learn-soap-gs-web-services
 categories: Learn Soap
 author: Scott Hurrey
 ---
+
+# Blackboard Learn SOAP
+
 **NOTE: SOAP Web Services have been deprecated.  Much of their functionality
 will not work with Ultra, including with Ultra Courses.**
 

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Build Java Client Library"
-purple-text-title: "SOAP Sample code: Build Java Client Library"
 id: learn-soap-tutorials-build-a-java-client
 categories: Learn soap
 author: Scott Hurrey
 ---
+
+# SOAP Sample code: Build Java Client Library
 
 The Blackboard Learn SOAP Web Services come out of the box with [sample
 code](about-web-services-sample-code) that can be downloaded

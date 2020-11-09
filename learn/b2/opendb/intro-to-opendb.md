@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Introduction to OpenDB" 
-purple-text-title: "Introduction to OpenDB"
 categories: Learn b2
 id: learn-b2-opendb-intro-to-opendb
 author: Scott Hurrey
 ---
+
+# Introduction to OpenDB
+
 In the summer of 2010, Blackboard made good on a commitment for platform
 openness by publishing details about the database structures that power the
 Blackboard Learn platform. Our Open Database initiative provides your

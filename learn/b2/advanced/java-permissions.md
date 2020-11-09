@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "B2s and Java Permissions" 
-purple-text-title: "B2s and Java Permissions"
+title: "B2s and Java Permissions"
 categories: Learn b2
 id: learn-b2-advced-java-permissions
 author: Scott Hurrey
 ---
+
+# B2s and Java Permissions
+
 Building Blocks are basically web applications which run in the Blackboard
 Learn web application container. As such they require specific permissions
 added to their bb-manifest.xml file to properly install, display, retrieve and

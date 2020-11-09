@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "REST Tutorials"
-purple-text-title: "REST Tutorials"
 id: learn-rest-gs-tutorials
 categories: Learn REST getting-started
 Author: Mark Bykerk Kauffman
 ---
-
+# REST Tutorials
 You will find these tutorials very helpful as you start developement.
 
 ### Python and the Postman - DevCon 2020

@@ -1,23 +1,20 @@
 ---
 layout: post
 title: "Starter Building Block Readme" 
-purple-text-title: "Starter Building Block Readme"
 categories: Learn b2
 id: learn-b2-gs-starter-b2
 author: Kelley MacEwen
 ---
 
+# Starter Building Block Readme
+
 This is the readme for the Starting Building Block. The Starter Building block
 is available in the [Blackboard maven
 repository](https://bbprepo.blackboard.com/content/repositories/public/blackboard/bbdn/starting-block).
 
-### Caveat
+>DO NOT INSTALL THE STARTER BLOCK ON A PRODUCTION SYSTEM OR ANY SYSTEM ACCESSIBLE VIA THE PUBLIC INTERNET._ Installing the starting block on a production system presents a security risk.**
 
-**DO NOT INSTALL THE STARTER BLOCK ON A PRODUCTION SYSTEM OR ANY SYSTEM
-ACCESSIBLE VIA THE PUBLIC INTERNET._ Installing the starting block on a
-production system presents a security risk.**
-
-### Introduction
+## Introduction
 
 The Starting Block Building Block can be used to dynamically deploy another
 Building Block for the purpose of testing changes. It is for use during the
@@ -29,7 +26,7 @@ The Starting Block only works with local files and therefore any file
 indicated for installation must be directly visible to the server on which the
 Starting Block resides.
 
-### Usage
+## Usage
 
 The Starting Block is invoked directly via URL. To access the help screen
 (which lists all available actions/options) install the Starting Block on your
@@ -42,7 +39,7 @@ Installation. Replace <server> with your servers domain and <schema> with your
 schema name. On newer systems, this should be **_BBLEARN_**, on older systems,
 this should be **_bb_bb60._**
 
-### Invocation
+## Invocation
 
 Since the Starting Block can be "called" using a URL, it can be invoked
 through a standard web browser (using a bookmark). However, it is easier to
@@ -88,4 +85,3 @@ commented out by default since the task is new to Ant 1.7 and will not work
 unless you have that version of Ant or newer. If its use is necessary for you,
 make sure you have Ant 1.7, uncomment out the task, and then update the
 setting of deploy.url to use warfile.url in place of warfile.
-

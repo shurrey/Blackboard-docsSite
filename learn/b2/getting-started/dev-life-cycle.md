@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Development Life Cycle" 
-purple-text-title: "Development Life Cycle"
 categories: Learn b2
 id: learn-b2-gs-dev-live-cycle
 author: Scott Hurrey
 ---
+
+# Development Life Cycle
+
 There are many things to consider when developing a Blackboard Building Block.
 Here we describe the issues involved and provide an overview of the
 development process. This is meant to serve as a general guide of how most

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "FAQs" 
-purple-text-title: "FAQs"
 categories: Learn b2
 id: learn-b2-gs-faqs
 author: Scott Hurrey
 ---
+
+# FAQs
 
 ## Account questions
 

@@ -14,37 +14,33 @@
           type: menu
           subsubmenu_content:
 
-            - subsubmenu_content_name: About
-              subsubmenu_content_url: /learn/b2/getting-started/about
-              id: learn-b2-gs-about
-              target: _self
-            - subsubmenu_content_name: Api Documentation
-              subsubmenu_content_url: /learn/b2/getting-started/api-documentation
-              id: learn-b2-gs-api-doc
-              target: _self
-            - subsubmenu_content_name: Api Overview
-              subsubmenu_content_url: /learn/b2/getting-started/api-overview
-              id: learn-b2-gs-api-over
-              target: _self
-            - subsubmenu_content_name: Developent life cycle
-              subsubmenu_content_url: /learn/b2/getting-started/dev-life-cycle
-              id: learn-b2-gs-dev-live-cycle
-              target: _self
-            - subsubmenu_content_name: FAQs
-              subsubmenu_content_url: /learn/b2/getting-started/faq
-              id: learn-b2-gs-faqs
+            - subsubmenu_content_name: Introduction
+              subsubmenu_content_url: /learn/b2/getting-started/intro
+              id: learn-b2-gs-intro
               target: _self
             - subsubmenu_content_name: First Steps
               subsubmenu_content_url: /learn/b2/getting-started/first-steps
               id: learn-b2-gs-first-steps
               target: _self
-            - subsubmenu_content_name: Introduction
-              subsubmenu_content_url: /learn/b2/getting-started/intro
-              id: learn-b2-gs-intro
+            - subsubmenu_content_name: Developent life cycle
+              subsubmenu_content_url: /learn/b2/getting-started/dev-life-cycle
+              id: learn-b2-gs-dev-live-cycle
+              target: _self
+            - subsubmenu_content_name: Api Overview
+              subsubmenu_content_url: /learn/b2/getting-started/api-overview
+              id: learn-b2-gs-api-over
+              target: _self
+            - subsubmenu_content_name: Api Documentation
+              subsubmenu_content_url: /learn/b2/getting-started/api-documentation
+              id: learn-b2-gs-api-doc
               target: _self
             - subsubmenu_content_name: Starter B2
               subsubmenu_content_url: /learn/b2/getting-started/starter-b2
               id: learn-b2-gs-starter-b2
+              target: _self
+            - subsubmenu_content_name: FAQs
+              subsubmenu_content_url: /learn/b2/getting-started/faq
+              id: learn-b2-gs-faqs
               target: _self
             - subsubmenu_content_name: Versioning Rosetta Stone
               subsubmenu_content_url: /learn/b2/getting-started/rosetta-stone
@@ -74,10 +70,6 @@
           type: menu
           subsubmenu_content:
 
-            - subsubmenu_content_name: Enabling remote debugging
-              subsubmenu_content_url: /learn/b2/resources/enabling-remote-debugging
-              id: learn-b2-resources-enable-rem-debug
-              target: _self
             - subsubmenu_content_name: First project using gradle and Git
               subsubmenu_content_url: /learn/b2/resources/first-project-using-gradle-and-git
               id: learn-b2-resources-first-project-gradle
@@ -90,13 +82,17 @@
               subsubmenu_content_url: /learn/b2/resources/prepare-for-java11
               id: learn-b2-resources-prepare-java-11
               target: _self
-            - subsubmenu_content_name: Preparing for Learn Q2-2016
+            - subsubmenu_content_name: Preparing for Q2-2016
               subsubmenu_content_url: /learn/b2/resources/preparing-for-learn-q2-2016
               id: learn-b2-resources-prep-learn-q2
               target: _self
             - subsubmenu_content_name: Moving to SaaS and new Learn versions
               subsubmenu_content_url: /learn/b2/resources/preparing-for-saas-and-new-learn-versions
               id: learn-b2-resources-moving-to-saas
+              target: _self
+            - subsubmenu_content_name: Enabling remote debugging
+              subsubmenu_content_url: /learn/b2/resources/enabling-remote-debugging
+              id: learn-b2-resources-enable-rem-debug
               target: _self
             - subsubmenu_content_name: Useful Links
               subsubmenu_content_url: /learn/b2/resources/useful-links
@@ -528,13 +524,13 @@
           type: menu
           subsubmenu_content:
 
+            - subsubmenu_content_name: Getting Started with Caliper
+              subsubmenu_content_url: /standards/caliper/getting-started/getting-started-with-caliper
+              id: standards-caliper-gs-getting-started
+              target: _self
             - subsubmenu_content_name: Caliper Events for learn
               subsubmenu_content_url: /standards/caliper/getting-started/caliper-event-store-for-learn
               id: standards-caliper-gs-caliper-events
-              target: _self
-            - subsubmenu_content_name: Getting Started with Caliper
-              subsubmenu_content_url: /standards/caliper/getting-started/caliper-event-store-for-learn
-              id: standards-caliper-gs-getting-started
               target: _self
 
         - subsubmenu_item: Events

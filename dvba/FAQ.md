@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "DVBA FAQ"
-purple-text-title: "DVBA FAQ"
 id: DBVA-faqs
 categories: DVBA
 author: Mark Kauffman
 ---
-
+# DVBA FAQ
 ## Solution to a PostgreSQL Error in the Developer Virtual Machine
 
 Recently I ran across an interesting issue while helping a Partner who uses the DVM exclusively for development. Changing some user’s Institution role resulted in a screen indicating a database error. Looking through the logs/bb- sqlerror-log.txt file we saw entries like the following:

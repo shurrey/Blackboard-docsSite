@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Rest registry"
-purple-text-title: "Rest Registry"
 id: learn-rest-gs-registry
 categories: Learn Rest
 author: Mark O' Neil
 ---
-
+# Rest Registry
 ### What's in the Box?
 
 The Blackboard developer portal is located at [https://developer.blackboard.com](https://developer.blackboard.com){:target="_blank"} There, you can:

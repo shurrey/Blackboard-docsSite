@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Rosetta Stone"
-purple-text-title: "Learn release names, Versions & Build numbers"
 categories: Learn
 id: learn-b2-gs-rosetta-stone
 authors: Mark Kauffman
 ---
+# Learn release names, Versions & Build numbers
+
 ### Overview
 
 This topic comes up often regarding Learn versions, "How do I map the Learn release names to the build numbers?" One of our clients referred to finding the answer as "finding the secret decoder ring, or discovering the location of the Rosetta Stone." Here's the answer.

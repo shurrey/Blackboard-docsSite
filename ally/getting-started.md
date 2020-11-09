@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Getting Started" 
-purple-text-title: "Getting Started Developing for Ally as a Service"
 id: ally-getting-started
 categories: Ally
 author: Scott Hurrey
 ---
-
+# Getting Started Developing for Ally as a Service
 Ally as a Service provides separatly licensed, stand-alone API access to allow an application to process files for accessibility. Many of you are using this power in your LMS to help instructors improve the accessibility of their content, and to give students, regardless of ability, access to the content that meets their needs and learning style the best. 
 
 To get started, the first thing you need is a client ID, key, and secret.  At this time, the best way to obtain this information is to engage your Account Executive to discuss pricing and request credentials. As the API continues to grow, this process may change, so be sure to check back here often. 

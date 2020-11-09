@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "What is DVBA"
-purple-text-title: "What is DVBA"
 id: DBVA-what-is-dvba
 categories: DVBA
 ---
+
+# What is DVBA
 ### Developer Versions of Blackboard Applications
 
 Blackboard makes developer versions of our applications available to integrators for development work. Currently Blackboard makes available the following developer versions of Blackboard applications (DVBAs).

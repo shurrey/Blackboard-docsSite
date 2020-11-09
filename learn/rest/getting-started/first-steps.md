@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Getting Started"
-purple-text-title: "Getting started with REST"
 id: learn-rest-gs-first-steps
 categories: Learn REST
 author: Scott Hurrey
 ---
+
+# Getting started with REST
 
 Blackboard offers a suite of education technology tools, both software and
 hardware. REST stands for **Re**presentational **S**tate **T**ransfer. It is a

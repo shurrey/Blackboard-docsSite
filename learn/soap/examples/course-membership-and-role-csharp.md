@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Roles and membership with C#"
-purple-text-title: "Get CourseMembership and Role with SOAP and C#"
 id: learn-soap-examples-course-membership-and-role-c
 categories: Learn soap
 author: Scott Hurrey
 ---
+
+# Get CourseMembership and Role with SOAP and C#
+
 This project will provide the Developer with sample code demonstrating how to
 perform the following actions, as they pertain to Blackboard Learn 9.1 Web
 Services:

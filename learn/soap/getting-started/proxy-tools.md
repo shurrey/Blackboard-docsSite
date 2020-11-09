@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Proxy Tools"
-purple-text-title: "Proxy Tools"
 id: learn-soap-gs-proxy-tools
 categories: Learn soap
 author: Scott Hurrey
 ---
-
+# Proxy Tools
 Administrators can link to a proxy tool descriptor which registers the tool,
 places access points according to defined properties, and enables access to
 the web service through the proxy tool.

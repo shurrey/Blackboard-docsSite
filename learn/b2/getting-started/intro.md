@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Introduction to Building Blocks" 
-purple-text-title: "Introduction to Building Blocks"
 categories: Learn b2
 id: learn-b2-gs-intro
 author: Scott Hurrey
 ---
+
+# Introduction to Building Blocks
+
 Blackboard Building Blocks, a key component of Blackboard Learn's open
 architecture, allow you to enhance the online education experience for your
 students and faculty. You may assemble a solution of homegrown, commercial and
@@ -25,7 +27,7 @@ architecture ensures that you can:
   * integrate with external systems or applications across your learning enterprise for example the Registrar's office, the Library to name just two
   * customize your implementation by integrating open source or locally-developed applications and tools
 
-#### Data that can be accessed includes:
+## Data that can be accessed includes:
 
   * Authentication and authorization information - to ensure seamless authentication and authorization between Blackboard software and other systems
   * User data - name, course of study, contact information
@@ -34,7 +36,7 @@ architecture ensures that you can:
   * Content - the ability to seamlessly integrate rich content from a variety of sources
   * System management - information to help administrators manage and monitor your Blackboard software installations
 
-#### Learn More
+### Learn More
 
 To learn more about creating Building Blocks, start
 [here](getting-started). To see examples of Building Blocks that have already been created,
@@ -44,7 +46,7 @@ Building Blocks produced by Blackboard Partners, or take a look at open source
 projects contributed by the Learn developer community at OSCELOT's
 [projects](https://github.com/oscelot) site.
 
-#### Request a Developers License
+### Request a Developers License
 
 All Blackboard Learn clients receive a Blackboard developers license at no
 cost. A developers license is a "small footprint" version of Blackboard with
@@ -54,7 +56,7 @@ If you require a developer network account visit [Behind the
 Blackboard](https://blackboard.secure.force.com/) (as an
 administrator) or contact your sales representative.
 
-#### Commercial Partnerships
+### Commercial Partnerships
 
 If you are interested in becoming a Blackboard partner visit the [Blackboard
 Partnerships](https://www.blackboard.com/partnership/index.aspx)™

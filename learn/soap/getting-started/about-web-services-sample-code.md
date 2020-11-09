@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "About Web Services Sample Code"
-purple-text-title: "About Web Services Sample Code"
 id: learn-soap-gs-about-web-services-sc
 categories: Learn Soap
 author: Scott Hurrey
 ---
+# About Web Services Sample Code
+
 Blackboard Learn provides access to sample code to help Developers build
 against the Blackboard Web Services. This sample code is accessible directly
 from the Blackboard Learn User Interface. The download comes in the form of a

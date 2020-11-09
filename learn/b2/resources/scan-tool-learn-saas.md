@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "Scan tool for Learn SaaS" 
-purple-text-title: "Building Block Scan Tool for Blackboard Learn"
+purple-text-title: ""
 categories: Learn b2
 id: learn-b2-resources-scan-tool
 author: Scott Hurrey
 ---
+
+# Building Block Scan Tool for Blackboard Learn
+
 As of Blackboard Learn SaaS version 3700.11.0, including 9.1 Q4 2019 and higher, you now have the ability to
 scan any installed Building Block for API changes and readiness for Java 11!
 

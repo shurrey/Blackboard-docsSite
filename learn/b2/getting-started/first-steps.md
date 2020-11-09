@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "First Steps" 
-purple-text-title: "First Steps Building Blocks"
 categories: Learn b2
 id: learn-b2-gs-first-steps
 author: Scott Hurrey
 ---
+
+# First Steps Using Building Blocks
 
 Developing extensions for Learn requires a development environment. Your
 development environment refers to (1) the development workstation on which you

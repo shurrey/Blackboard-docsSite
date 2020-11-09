@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Groups, Site quotas and rate limits"
-purple-text-title: "Developer groups, Site quotas and rate limits"
 id: learn-rest-admin-group-quotas-rates
 categories: Learn REST
 author: Ryan Haber
 ---
 
-### Overview
+# Developer groups, Site quotas and rate limits
+
+## Overview
 
 With the Blackboard Developer Portal, you can manage use of your Learn
 instance's REST APIs and applications that use those APIs. Groups of

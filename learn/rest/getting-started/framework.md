@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Blackboard REST API Framework"
-purple-text-title: "The Blackboard REST API Framework"
 id: learn-rest-gs-framework
 categories: Learn Rest
 author: Mark O'Neil
 ---
+
+# The Blackboard REST API Framework
 
 Blackboard’s new REST API Framework is a giant step forward for integrating
 with Blackboard Learn. By moving the integration from in-process code to a

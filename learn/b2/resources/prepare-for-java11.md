@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "8 Steps to prepare for Java 11"
-purple-text-title: "8 Steps to prepare for Java 11"
 categories: Learn b2
 id: learn-b2-resources-prepare-java-11
 author: Scott Hurrey
 ---
+
+# 8 Steps to prepare for Java 11
 
 (Updated March 2020 to remove SaaS release references since that is in the past. Updated 23 January 2020: clarification of Building Block updates at time of Learn upgrade; timeline and availability updates.)
 

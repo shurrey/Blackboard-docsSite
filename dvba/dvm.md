@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Developer Virtual Machine - DVM"
-purple-text-title: "Developer Virtual Machine (DVM)"
 id: DBVA-dvm
 categories: DVBA
 ---
+# Developer Virtual Machine (DVM)
 
 The DVM is only available to clients and partners with Behind the Blackboard access. You *can* gain access to a developer instance of Blackboard for developing LTI and RESTful applications using our Amazon Web Services Developer AMI, available in the Amazon Marketplace. If you prefer the Virtual Machine, or you wish to develop Building Blocks, you must first be a contracted client or partner. For more information about becoming a Blackboard Partner, see Become a Blackboard Partner and Gain Access To Behind the Blackboard and Partner SaaS Systems.
 

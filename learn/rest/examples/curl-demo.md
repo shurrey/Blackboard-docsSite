@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "cURL Demo"
-purple-text-title: "cURL Demo"
 id: learn-rest-examples-curl-demo
 categories: Learn Rest
 author: Mark Bykerk Kauffman
 ---
+# cURL Demo
 
-### Introduction
+## Introduction
 
 The rest demo script demonstrates authenticating a REST application,
 management and use of the authorization token, and creating, updating,

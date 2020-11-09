@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Course announcements on Python"
-purple-text-title: "Course announcements using Python"
 id: learn-soap-examples-course-announcements-py
 categories: Learn soap
 author: Scott Hurrey
 ---
+
+# Course announcements using Python
+
 This project will provide the Developer with sample code demonstrating how to
 perform the following actions, as they pertain to Blackboard Learn 9.1 Web
 Services:

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Event Driven API" 
-purple-text-title: "Event Driven API"
 categories: Learn b2
 id: learn-b2-advced-event-driven-api
 author: Kelley MacEwen
 ---
+
+ # Event Driven API
+
 The Blackboard Learn Event Driven API is used to programmatically push the
 following data into the Blackboard Learn database from an external system:
 

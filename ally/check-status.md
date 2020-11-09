@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Check the processing status of a file" 
-purple-text-title: "Check the processing status of a file"
 id: ally-check-status
 categories: Ally
 author: Scott Hurrey
 ---
+
+# Check the processing status of a file
 Ally processes files asynchronously. We aim to process files in near-realtime, but some delays might be present. This endpoint can be used to poll for status updates.
 
 

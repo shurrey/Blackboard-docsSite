@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Command line REST Application"
-purple-text-title: "Tutorial - Build a Java Command Line REST Application"
 id: learn-rest-examples-java-command-line
 categories: Learn Rest
 author: Scott Hurrey
 ---
-
+# Tutorial - Build a Java Command Line REST Application
 The purpose of this document is to allow a developer to walk through the REST
 Workshop from DevCon 2016. Please note that this sample code was built and
 tested on Mac. It is Java code, and therefore, should be operating system

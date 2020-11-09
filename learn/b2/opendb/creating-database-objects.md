@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Creating Database Objects with Building Blocks" 
-purple-text-title: "Creating Database Objects with Building Blocks"
 categories: Learn b2
 id: learn-b2-opendb-creatingdb-object
 author: Kelley MacEwen
 ---
+
+# Creating Database Objects with Building Blocks
+
 With Release 9.1, Blackboard included the ability for Building Blocks to
 define schema elements in the .war file that would get automatically installed
 and managed in the Learn database schema. However, that feature was limited to

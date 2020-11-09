@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Course, User, and Enrollment Data" 
-purple-text-title: "Course, User, and Enrollment Data"
 categories: Learn b2
 id: learn-b2-examples-course-user-enrollment
 author: Kelley MacEwen
 ---
+
+# Course, User, and Enrollment Data
+
 This tutorial will show you how to retrieve and save user information using
 various methods throughout the user interface.
 

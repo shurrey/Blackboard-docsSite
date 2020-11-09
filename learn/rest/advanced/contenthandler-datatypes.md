@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Data types for contentHandler"
-purple-text-title: "Data types for contentHandler"
 id: learn-rest-advanced-content-hndlr
 categories: Learn REST
 author: Ryan Haber
 ---
+
+# Data types for contentHandler
 
 Blackboard Learn's `/contents` endpoints accommodate different types of content
 by using different handlers. Use the contentHandler field of requests and

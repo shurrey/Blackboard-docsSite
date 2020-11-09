@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Tutorial - Schema.XML" 
-purple-text-title: "Tutorial - Schema.XML"
 categories: Learn b2
 id: learn-b2-opendb-schema-xml
 author: Scott Hurrey
 ---
+
+# Tutorial - Schema.XML
+
 Building Blocks often require the means to store data specific to their
 function. This was often accomplished using local flat files stored in the
 Building Block directory or by utilizing an external database. Neither

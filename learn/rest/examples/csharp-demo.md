@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "C# Demo"
-purple-text-title: "C# Demo"
 id: learn-rest-examples-csharpdemo
 categories: Learn Rest
 author: Scott Hurrey
 ---
 
-
+# C# Demo
 The rest demo script demonstrates authenticating a REST application,
 management and use of the authorization token, and creating, updating,
 discovering, and deleting supported Learn objects

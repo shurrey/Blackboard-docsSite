@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Security and Tokens"
-purple-text-title: "Security and Tokens"
 id: collab-security-and-tokens
 categories: Collaborate
 ---
- 
+
+# Security and Tokens"
+
 Blackboard Collaborate relies on JSON web tokens (JWT) to authenticate and authorize incoming REST API calls. You can read more about the JWT standard here. A JSON web token can be signed with either RSA or HMAC. RSA allows the REST Client to sign the JWT with public and private keys via x.509 certificates. HMAC allows the JWT to be signed with a shared secret. Either way, the data can be trusted because it is digitally signed with mutually known credentials.
 
 [Here is a very simple sample Python script] (https://github.com/ryanhaber/Blackboard-REST-SDK-python/blob/master/bb-collab-simple-sample-get-users.py.) that uses a correctly formed JWT assertion to request an access token and then uses the access token to make a single API request

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Spring in Building Blocks" 
-purple-text-title: "Spring in Building Blocks"
 categories: Learn b2
 id: learn-b2-examples-spring-in-b2s
 author: Kelley MacEwen
 ---
+
+# Spring in Building Blocks
+
 ## Sample Metadata
 
 **Title**: Using Spring in Building Blocks

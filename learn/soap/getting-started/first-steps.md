@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Getting Started"
-purple-text-title: "Getting Started"
 id: learn-soap-gs-first-steps
 categories: Learn soap
 author: Scott Hurrey
 ---
+# Getting Started
+
 Blackboard Learn offers documentation and sample code for the SOAP-based Web
 Services directly in the user interface. The sample code gives you the ability
 to create re-usable libraries in both C# and Java. Once you build this

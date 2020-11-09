@@ -6,7 +6,7 @@ categories: Legal
 author: Scott Hurrey
 ---
 
-### **BLACKBOARD® REST AND LTI DEVELOPER AGREEMENT**
+# **BLACKBOARD® REST AND LTI DEVELOPER AGREEMENT**
 
 This Blackboard REST and LTI Developer Agreement (“**Agreement**”) enables the development, 
 testing, demonstration and limited deployment of software applications designed to 

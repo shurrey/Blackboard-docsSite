@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Build The .Net SOAP Sample Library"
-purple-text-title: "Build The .Net SOAP Sample Library"
 id: learn-soap-tutorials-build-a-sample-library-c
 categories: Learn soap
 author: Scott Hurrey
 ---
+# Build The .Net SOAP Sample Library
+
 The first step to building the .NET Web Services sample desktop application is
 to build the library that handles the communication between that client and
 Blackboard Learn. This library can also be used from within Microsoft™ Visual

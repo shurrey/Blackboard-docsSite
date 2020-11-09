@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Working with Ultra assignments"
-purple-text-title: "Use APIs to Work with Ultra Assignments"
 id: learn-rest-advanced-ultra-assignments
 categories: Learn Rest
 author: Ryan Haber
 ---
+
+# Use APIs to Work with Ultra Assignments
 
 ### Overview
 

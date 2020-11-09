@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "BbML"
-purple-text-title: "Blackboard Markup Language BbML"
 id: learn-rest-advanced-bbml
 categories: Learn REST
 author: Scott Hurrey
 ---
+
+# Blackboard Markup Language BbML
 
 ### Overview
 

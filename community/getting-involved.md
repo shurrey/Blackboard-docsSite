@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Getting Involved"
-purple-text-title: "Be a part of the Community!"
 id: community-getting-involved
 categories: Community
 author: Scott Hurrey
 ---
 
+# Be a part of the Community!
 Getting involved in the Developer community is easy and with options to suit your goals…
 
 * If you have not already done so, register for a Blackboard Developer Community account to interact. Its free, and gives you the ability to participate in all of the Blackboard Communities. If you are interested in contributing to the blogs here on the Community site, let us know.

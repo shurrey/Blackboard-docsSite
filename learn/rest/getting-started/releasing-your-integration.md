@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Releasing your integration"
-purple-text-title: "Releasing your integration"
 id: learn-rest-gs-releasing-integration
 categories: Learn Rest
 author: Mark O'Neil
 ---
-
+# Releasing your integration
 You have taken the time to build a great integration now there are a few steps that should be followed to ensure a successful product release. 
 
 These fall into two categories:

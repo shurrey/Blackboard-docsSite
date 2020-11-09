@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Become a Parter!"
-purple-text-title: "Become a Parter!"
 id: partners-become-a-partner
 categories: Partners
 ---
 
+# Become a Parter!
 While our Community partner level is FREE to developers and provides access to the Blackboard Learn AMI for developers to build REST and LTI applications, API limits apply and Behind the Blackboard support access is not provided. Consider investing in one of our other partnership levels to receive added benefits that help partners deepen integrations, promote solutions and connect with Blackboard clients.
 
 Blackboard Developers Network (BbDN) is Blackboard’s basic partnership and is available for $3,000 annually (pro-rated to an annual April 15th renewal). BbDN Partnerships include the following benefits:

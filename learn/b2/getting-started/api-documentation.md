@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "B2 API Documentation" 
-purple-text-title: "B2 API Documentation"
 categories: Learn b2
 id: learn-b2-gs-api-doc
 author: Scott Hurrey
 ---
+
+# B2 API Documentation
+
 As of 3700.9.0, we will be uploading these files as part of the build process
 with each release of Blackboard Learn SaaS to test, to facilitate better
 readiness for SaaS releases to go to production. In order to accomplish this,
@@ -39,7 +41,7 @@ Blocks API and Web Services Specifications since the previous release of
 Blackboard Learn. This navigable list of added, removed, and changed public
 APIs is an HTML package in Javadoc format.
 
-### Tag Libraries
+## Tag Libraries
 
 The familiar look and feel of the Learn user interface is provided to
 developers through the Blackboard Tag Library. These are the same tag
@@ -50,7 +52,7 @@ user interface in a manner familiar for users of the Learn application. Using
 the tag libraries in your Building Block creates a 'seamless' ui experience
 for your Building Block users.
 
-#### OpenDB
+## OpenDB
 
 The Open Database Schema provides information about the Blackboard Learn
 database structure, including layout and table inter-dependencies. This

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Getting Started"
-purple-text-title: "Getting Started"
 id: collab-getting-started
 categories: Collaborate
 ---
+# Getting Started
 
 This section is dedicated to getting developers up-to-speed quickly with the new REST APIs available for Blackboard Collaborate with the Ultra Experience. These APIs give the developer the ability to programmatically integrate common Collaborate functionality into a web application using the tried and true framework that is REST APIs.
 

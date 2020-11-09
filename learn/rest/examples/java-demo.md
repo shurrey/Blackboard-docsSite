@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Java Demo"
-purple-text-title: "Demo using Java"
 id: learn-rest-examples-java-demo
 categories: Learn Rest
 author: Scott Hurrey
 ---
-
+# Demo using Java
 The rest demo script demonstrates authenticating a REST application,
 management and use of the authorization token, and creating, updating,
 discovering, and deleting supported Learn objects. For a more complete tutorial, check out this [page](java-command-line) to walkthrough building a Java command-line application.

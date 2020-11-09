@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Code Quality Initiative" 
-purple-text-title: "Code Quality Initiative"
 categories: Learn b2
 id: learn-b2-bp-code-quality
 author: Scott Hurrey
 ---
+
+# Code Quality Initiative
 
 ## Why Code Quality Matters
 

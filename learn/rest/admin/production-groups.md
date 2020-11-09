@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Production groups"
-purple-text-title: "Developer Portal, Development and Production Groups"
 id: learn-rest-admin-prod-groups
 categories: Learn Rest Admin
 author: Scott Hurrey
 ---
+
+# Developer Portal, Development and Production Groups
 
 ### What are Groups?
 

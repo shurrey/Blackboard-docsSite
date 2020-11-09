@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Merge and Corsslist courses"
-purple-text-title: "Use APIs to Merge and Cross-list Courses"
+purple-text-title: ""
 id: learn-rest-advanced-merge-crosslist-courses
 categories: Learn Rest
 author: Ryan Haber
 ---
+
+# Use APIs to Merge and Cross-list Courses
 
 ### Overview
 

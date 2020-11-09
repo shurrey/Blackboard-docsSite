@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Rest and Learn"
-purple-text-title: "Managing REST Integrations in Learn: The REST Integrations Tool for System Administrators"
 id: learn-rest-gs-rest-and-learn
 categories: Learn REST
 author: Marl O'Neil
 ---
+# Managing REST Integrations in Learn: The REST Integrations Tool for System Administrators
 
 ### Overview of the REST API Integrations Tool
 

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Authorize and Authenticate in Ally" 
-purple-text-title: "Authorize and Authenticate in Ally as a Service"
+purple-text-title: ""
 id: ally-authorization
 categories: Ally
 author: Scott Hurrey
 ---
-
-## Authorize and Authenticate in Ally as a Service
+# Authorize and Authenticate in Ally as a Service
 
 Blackboard Ally as a Service relies on JSON web tokens (JWT) to authenticate and authorize incoming REST API calls. You can read more about the JWT standard [here](https:////tools.ietf.org/html/rfc7519). 
 

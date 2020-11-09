@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Deprecation Policy"
-purple-text-title: "Public REST API Compatibility and Deprecation Policy"
 categories: Learn Rest
 author: Ryan Haber
 ---
+# Public REST API Compatibility and Deprecation Policy
 
-# Compatibility
+## Compatibility
 
 ### Backward compatibility
 

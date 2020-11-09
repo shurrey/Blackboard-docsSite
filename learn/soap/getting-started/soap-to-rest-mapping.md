@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "SOAP to REST"
-purple-text-title: "SOAP to REST migration: Mapping"
 id: learn-soap-gs-soap-to-rest
 categories: Learn soap
 author: Scott Hurrey
 ---
-
+# SOAP to REST migration: Mapping
 The purpose of this document is to provide a mapping from SOAP Web Service
 calls to REST API Endpoints. This is meant to be a quick-start guide to the
 migration process. With SOAP being deprecated in the near term future and

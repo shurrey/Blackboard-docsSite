@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Secure Coding Practices" 
-purple-text-title: "Secure Coding Practices"
 categories: Learn b2
 id: learn-b2-bp-secure-coding-practices
 author: Scott Hurrey
 ---
+# Secure Coding Practices
+
 Blackboard takes security seriously and extends that same outlook to
 developers by enabling them to apply industry standards of best practice to
 their Building Blocks.

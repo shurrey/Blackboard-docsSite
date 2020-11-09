@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "UEF Tutorials"
-purple-text-title: "UEF Tutorials"
 categories: Learn UEF
 author: Mark Bykerk Kauffman
 ---
-
+# UEF Tutorials
 You will find these tutorials very helpful as you start your Ultra Extension Framework (UEF) developement.
 
 #### How To Ultra Extension Framework - Scott Hurrey DevCon 2020

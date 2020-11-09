@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Bb App students launch schema" 
-purple-text-title: "Blackboard App for Students Launch Schema"
 id: mobile-bbapp-students-launch
 categories: Mobile
 author: Scott Hurrey
 ---
+
+# Blackboard App for Students Launch Schema
 You can link into the Blackboard app from other applications. With deep linking, a uniform resource identifier (URI) links to a specific location within the mobile app rather than simply launching the app. Use the provided schemas to link to specific features in the Blackboard app. 
 
 > **Note**: _the app-to-app launch schema changed from the bbstudent:// prefix to the blackboard:// prefix in June, 2017. Please be sure your schema is updated. This functionality is not available for the Blackboard Instructor app._

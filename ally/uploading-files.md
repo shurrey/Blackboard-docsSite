@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Upload a file to Ally" 
-purple-text-title: "Upload a file to Ally"
 id: ally-uploading-files
 categories: Ally
 author: Scott Hurrey
 ---
-
+# Upload a file to Ally
 Start the process by uploading the file you would like to get feedback for.  This is a multipart POST request. The response will contain the statusUrl  that you can poll to check whether the file has been processed. If the file was processed previously, a resourceUrl will be provided through which you can fetch the feedback information immediately.
 
 ## Supported content types

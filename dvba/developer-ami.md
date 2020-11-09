@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Developer AMI"
-purple-text-title: "Using the Blackboard Learn AMI for REST and LTI Development"
 id: DBVA-dev-ami
 categories: DVBA
 ---
+
+# Using the Blackboard Learn AMI for REST and LTI Development
+
 This document outlines usage of the Blackboard REST and LTI Developer AMI made available via the Amazon AWS Marketplace.
 
 #### Overview

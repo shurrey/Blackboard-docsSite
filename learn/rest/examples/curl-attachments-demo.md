@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "cURL Demo for attachments"
-purple-text-title: "Using cURL to access content attachments"
 id: learn-rest-examples-curl-attach-demo
 categories: Learn Rest
 author: Mark O'Neil
 ---
-
+# Using cURL to access content attachments
 The Learn REST API supports accessing Content Item information and URLs for
 downloading content attachments.
 

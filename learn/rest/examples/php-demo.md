@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "PHP Demo"
-purple-text-title: "Demo using PHP"
 id: learn-rest-examples-php-demo
 categories: Learn Rest
 author: Scott Hurrey
 ---
-
+# Demo using PHP
 The rest demo script demonstrates authenticating a REST application,
 management and use of the authorization token, and creating, updating,
 discovering, and deleting supported Learn objects.

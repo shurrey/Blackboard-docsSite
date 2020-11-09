@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Dynamic Rendering with Template Variables" 
-purple-text-title: "Dynamic Rendering with Template Variables"
 categories: Learn b2
 id: learn-b2-advced-dynamic-render
 author: Scott Hurrey
 ---
+
+# Dynamic Rendering with Template Variables
+
 Template variables allow for integration with other systems by exposing
 information about the user's context in a way that makes creating URLs to pass
 information to these systems easy.

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Security" 
-purple-text-title: "About Security"
 categories: Learn b2
 id: learn-b2-bp-security
 author: Kelley MacEwen
 ---
+
+# About Security
+
 This page describes how to restrict access to a page in your building block.
 
 ## Entitlements

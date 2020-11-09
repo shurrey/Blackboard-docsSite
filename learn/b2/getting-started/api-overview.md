@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "B2s and Java Permissions" 
-purple-text-title: "B2s and Java Permissions"
 categories: Learn b2
 id: learn-b2-gs-api-over
 author: Scott Hurrey
 ---
+
+# B2s and Java Permissions
+
 Building Blocks are capable of fulfilling predominantly, but not exclusively
 two scenarios:
 

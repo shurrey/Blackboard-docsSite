@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Python Demo"
-purple-text-title: "Demo using Python"
 id: learn-rest-examples-python-demo
 categories: Learn Rest
 author: Mark O'Neil
 ---
-
+# Demo using Python
 The rest demo script demonstrates authenticating a REST application,
 management and use of the authorization token, and creating, updating,
 discovering, and deleting supported Learn objects.

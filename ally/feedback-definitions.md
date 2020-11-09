@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Feedback parameter definitions" 
-purple-text-title: "Feedback parameter definitions"
 id: ally-api-feedback-def
 categories: Ally
 author: Scott Hurrey
 ---
-
+# Feedback parameter definitions
 Here are the feedback parameters returned when the feedback endpoint is called. The full and meta columns defines which fields are included based on the feedback query parameter. If it is set to true, you get the full response, and the full column will have a <i class="material-icons">check</i>. If it is set to false or omitted, you receive just the meta data, and Meta column will have an <i class="material-icons">check</i>
 
 Parameter | Definition | Full | Meta

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Enabling Remote Debugging" 
-purple-text-title: "Enabling Remote Debugging"
 categories: Learn b2
 id: learn-b2-resources-enable-rem-debug
 author: Scott Hurrey
 ---
+
+# Enabling Remote Debugging
+
 This tutorial will show you how to enable Tomcat debugging so that you can
 connect to your Building Block application with a code-level debugger such as
 those built into Eclipse and NetBeans.

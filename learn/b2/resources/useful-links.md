@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Useful Links" 
-purple-text-title: "Useful Links"
 categories: Learn b2
 id: learn-b2-resources-useful-links
 author: Scott Hurrey
 ---
+
+# Useful Links
+
 This document contains a number of links to resources to assist a Building
 Block Developer in the quest to build an integration with the Blackboard
 Building Blocks framework.

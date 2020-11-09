@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Blackboard's UEF"
-purple-text-title: "Blackboard's Ultra Extension Framework"
 categories: Learn UEF
 authors: Mark Kauffman, Sarah Lehnert
 ---
-
+# Blackboard's Ultra Extension Framework
 ## Introducing Blackboard’s Ultra Extension Framework
 
 We’re excited to introduce a new means of integration with the Blackboard Learn Ultra Experience, known as the Ultra Extension Framework (UEF). The UEF is a set of Premium APIs that augment the Ultra experience of Blackboard Learn with a robust set of capabilities including telemetry, help provider registration, and UI element rendering - all designed to enable better integrations and richer user experience.
