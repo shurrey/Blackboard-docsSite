@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Caliper Event Store in Learn" 
-purple-text-title: "Configuring Caliper Event Store in Blackboard Learn"
 categories: Standards Caliper Getting Started
 id: standards-caliper-gs-caliper-events
 author: Scott Hurrey
 ---
+
+# Configuring Caliper Event Store in Blackboard Learn
 
 Blackboard Learn was the first Learning Management System to be certified for
 Caliper Learning Analytics. Caliper is an IMS Global standard that allows a

@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "LTI Events" 
-purple-text-title: "LTI Events"
 id: standards-lti-gs-lti-events
 categories: Standards
 author: Scott Hurrey
 ---
-
+# LTI Events
 Blackboard Learn's Caliper Analytics stream emits an LTIEvent when any user:
 
   * **Clicks an LTI link**

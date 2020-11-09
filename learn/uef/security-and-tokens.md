@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Security and Tokens"
-purple-text-title: "UEF -"
 categories: Learn UEF
 authors: Mark Kauffman, Sarah Lehnert
+id: learn-uef-gs-security-and-tokens
 ---
-#  Authentication and Authorization
+
+#  Security and Tokes - Authentication
 Using the Ultra Extension Framework (UEF) is a powerful way to enhance the way students learn and teachers teach. The framework itself is pretty easy to use. As with most integration types, the biggest hurdle is figuring out the proper method of authenticating your tool and authorizing its use. The purpose of this document is to shed some light on this process in the hopes that it will help you get building your code faster.
 
 This document makes a few assumptions. 

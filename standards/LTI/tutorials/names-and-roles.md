@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "LTI Advantage - Names and Roles" 
-purple-text-title: "GLTI Advantage - Names and Roles"
 id: standards-lti-tutorials-names-and-roles
 categories: Standards
 author: Scott Hurrey
 ---
 
+# LTI Advantage - Names and Roles
 ### Overview
 
 This document documents gives updates on Names and Roles as new features become available. For the definitive specifications, always refer to the published IMS documenation.

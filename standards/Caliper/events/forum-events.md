@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Forum Events" 
-purple-text-title: "Forum Events"
 categories: Standards
 id: standards-caliper-events-forum
 author: Scott Hurrey
 ---
+
+# Forum Events
 
 Blackboard Learn's Caliper Analytics stream emits a ForumEvent to cover five
 use cases:

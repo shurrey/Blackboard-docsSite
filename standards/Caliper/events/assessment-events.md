@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Assessment Events" 
-purple-text-title: "Assessment Events"
 categories: Standards
 id: standards-caliper-events-assesments
 author: Scott Hurrey
 ---
 
+# Assessment Events
 Blackboard Learn's Caliper Analytics stream has two event types dedicated to assessments:
 
 * **AssessmentEvent**

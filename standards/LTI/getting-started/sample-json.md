@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "LTI Advantage - Sample JSON" 
-purple-text-title: "LTI Advantage - Sample JSON"
 id: standards-lti-gs-sample-json
 categories: Standards
 author: Scott Hurrey
 ---
 
+# LTI Advantage - Sample JSON
 ### Overview
 
 This document documents sample JSON between the Blackboard Learn LMS and an

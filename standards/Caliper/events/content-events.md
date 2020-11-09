@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Content Events" 
-purple-text-title: "Content Events"
 categories: Standards
 id: standards-caliper-events-content
 author: Scott Hurrey
 ---
+
+# Content Events
 
 Blackboard Learn's Caliper Analytics stream emits a ContentEvent to cover a
 plethora of use cases. Here is when a message will be sent:

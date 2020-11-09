@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "View Events" 
-purple-text-title: "View Events"
 categories: Standards
 id: standards-caliper-events-views
 author: Scott Hurrey
 ---
-
+# View Events
 Blackboard Learn's Caliper Analytics stream sends ViewEvent messages to cover
 four use cases:
 

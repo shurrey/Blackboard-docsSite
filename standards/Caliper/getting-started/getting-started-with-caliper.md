@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Getting Started With Caliper" 
-purple-text-title: "Getting Started With Caliper"
 categories: Standards Caliper Getting Started
 id: standards-caliper-gs-getting-started
 author: Scott Hurrey
 ---
+
+# Getting Started With Caliper
+
 Caliper Analytics is an IMS Global standard focused on the delivery of
 consistent event tracking across campus applications. 
 

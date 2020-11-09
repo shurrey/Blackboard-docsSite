@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Getting Started With LTI" 
-purple-text-title: "Getting Started With LTI"
 id: standards-lti-gs-with-lti
 categories: Standards
 author: Scott Hurrey
 ---
-
+# Getting Started With LTI
 ### Overview
 
 Learning Tool Interoperability is a standard from the IMS Global consortium.

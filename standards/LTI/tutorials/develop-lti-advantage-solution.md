@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Developing an LTI 1.3/Advantage" 
-purple-text-title: "Developing an LTI 1.3/Advantage Solution -  Recordings and Resources"
 id: standards-lti-tutorials-develop-lti-adtge
 categories: Standards
 author: Mark Bykerk Kauffman
 ---
-
+# Developing an LTI 1.3/Advantage Solution -  Recordings and Resources
 ### Caveat
 
 Deleting a registered LTI domain and/or the associated managed placements from the Administrator Panel -> LTI Tool Providers page will invalidate all of the associated LTI launch links in courses. The data will be gone from the database. There is no way to fix this. NEVER delete a registered domain or managed placements without considering these consequences. If you create an LTI 1.3 Tool that uses the same domain as a currently registered LTI 1.1 tool on a Learn system, there is code in Learn that will prompt you to migrate from LTI 1.1 to LTI 1.3. Generally that's a great option. Finally, only very brave people make changes on a production system without testing first on a test or staging system. We recommend you be more cautious than brave.

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Outcome Events" 
-purple-text-title: "Outcome Events"
 categories: Standards
 id: standards-caliper-events-outcome-events
 author: Scott Hurrey
 ---
+
+# Outcome Events
+
 Blackboard Learn's Caliper Analytics stream emits an OutcomeEvent to cover the
 following use cases:
 

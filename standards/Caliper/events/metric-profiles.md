@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Caliper Metric Profiles" 
-purple-text-title: "Caliper Metric Profiles"
 categories: Standards
 id: standards-caliper-events-metric-profiles
 author: Scott Hurrey
 ---
+
+# Caliper Metric Profiles
 
 Caliper Metric Profiles provide a basic, consistent format for emitting and
 consuming learning events regardless of the Learning Management System or

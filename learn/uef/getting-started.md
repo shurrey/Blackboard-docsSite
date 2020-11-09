@@ -3,6 +3,7 @@ layout: post
 title: "Blackboard's UEF"
 categories: Learn UEF
 authors: Mark Kauffman, Sarah Lehnert
+id: learn-uef-gs-first-steps
 ---
 # Blackboard's Ultra Extension Framework
 ## Introducing Blackboard’s Ultra Extension Framework

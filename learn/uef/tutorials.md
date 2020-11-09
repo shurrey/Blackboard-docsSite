@@ -3,6 +3,7 @@ layout: post
 title: "UEF Tutorials"
 categories: Learn UEF
 author: Mark Bykerk Kauffman
+id: learn-uef-gs-tutorials
 ---
 # UEF Tutorials
 You will find these tutorials very helpful as you start your Ultra Extension Framework (UEF) developement.

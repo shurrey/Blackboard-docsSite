@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Course Group Events" 
-purple-text-title: "Course Group Events"
 categories: Standards
 id: standards-caliper-events-course-group
 author: Scott Hurrey
 ---
+# Course Group Events
 
 Blackboard Learn's Caliper Analytics stream emits a CourseGroupEvent whenever
 an instructor creates, updates, or deletes a group in a course.

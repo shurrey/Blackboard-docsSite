@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Session Events" 
-purple-text-title: "Session Events"
 categories: Standards
 id: standards-caliper-events-sessions
 author: Scott Hurrey
 ---
+# Session Events
 
 Blackboard Learn's Caliper Analytics stream emits a SessionEvent to cover
 three use cases:

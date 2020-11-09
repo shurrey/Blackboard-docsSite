@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Blackboard Caliper Event Guide" 
-purple-text-title: "Blackboard Caliper Event Guide"
 categories: Standards
 id: standards-caliper-events-guide
 author: Scott Hurrey
 ---
+
+# Blackboard Caliper Event Guide
 
 **Contents**
 

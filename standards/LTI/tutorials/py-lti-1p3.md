@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "pyLTI1p3" 
-purple-text-title: "Using the pyLTI1p3 Library with Blackboard Learn"
 id: standards-lti-tutorials-pylti1p3
 categories: Standards
 author: Scott Hurrey
 ---
 
+# Using the pyLTI1p3 Library with Blackboard Learn
 LTI 1.3 is a much better, much more secure option for integrating one application with another in a standard way. Python is an industry-standard language and is in use by many Blackboard institutions for building integrations. The purpose of this document is to demonstrate how to use the [pyLTI1p3](https://pypi.org/project/PyLTI1p3) library, built by [Dmitry Viskov](https://github.com/dmitry-viskov) to easily integrate a Python application with Blackboard Learn's Ultra Experience. For the purposes of this demonstration, we will use Dmitry's [pylti1.3 flask example](https://github.com/dmitry-viskov/pylti1.3-flask-example).
 
 ### About The Project

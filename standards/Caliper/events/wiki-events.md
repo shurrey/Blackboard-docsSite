@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Wiki Events" 
-purple-text-title: "Wiki Events"
 categories: Standards
 id: standards-caliper-events-wikis
 author: Scott Hurrey
 ---
+# Wiki Events
 
 Blackboard Learn's Caliper Analytics stream emits a WikiEvent whenever a
 student posts to a wiki in an original experience course. Here is some of the

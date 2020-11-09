@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Assignable Events" 
-purple-text-title: "Assignable Events"
 categories: Standards
 id: standards-caliper-events-assignables
 author: Scott Hurrey
 ---
+
+# Assignable Events
+
 Blackboard Learn's Caliper Analytics stream emits an AssignableEvent in four
 cases:
 

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Calculated grade snapshot events" 
-purple-text-title: "Calculated grade snapshot events"
 categories: Standards
 id: standards-caliper-events-calculated-grade-snapshots
 author: Scott Hurrey
 ---
+
+# Calculated grade snapshot events
 
 Blackboard Learn's Caliper Analytics stream emits a CalculatedGradeSnapshotEvent nightly for any grade that is recalculated.
 

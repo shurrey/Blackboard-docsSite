@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Blog Events" 
-purple-text-title: "Blog Events"
 categories: Standards
 id: standards-caliper-events-blogs
 author: Scott Hurrey
 ---
+
+# Blog Events
 
 Blackboard Learn's Caliper Analytics stream emits a BlogEvent whenever a
 student submits a blog entry in an original experience course. Here is some of

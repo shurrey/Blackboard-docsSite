@@ -173,29 +173,13 @@
           type: menu
           subsubmenu_content:
 
-            - subsubmenu_content_name: Three-Legged OAuth
-              subsubmenu_content_url: /learn/rest/getting-started/3lo
-              id: learn-rest-gs-3lo
-              target: _self
-            - subsubmenu_content_name: API
-              subsubmenu_content_url: /learn/rest/getting-started/api
-              id: learn-rest-gs-api
-              target: _self
-            - subsubmenu_content_name: Basic Authentication
-              subsubmenu_content_url: /learn/rest/getting-started/basic-authentication
-              id: learn-rest-gs-basic-auth
-              target: _self
-            - subsubmenu_content_name: Developer Portal
-              subsubmenu_content_url: /learn/rest/getting-started/developer-portal
-              id: learn-rest-dev-portal
-              target: _self
             - subsubmenu_content_name: First steps
               subsubmenu_content_url: /learn/rest/getting-started/first-steps
               id: learn-rest-gs-first-steps
               target: _self
-            - subsubmenu_content_name: Framework
-              subsubmenu_content_url: /learn/rest/getting-started/framework
-              id: learn-rest-gs-framework
+            - subsubmenu_content_name: Basic Authentication
+              subsubmenu_content_url: /learn/rest/getting-started/basic-authentication
+              id: learn-rest-gs-basic-auth
               target: _self
             - subsubmenu_content_name: Registry
               subsubmenu_content_url: /learn/rest/getting-started/registry
@@ -204,6 +188,22 @@
             - subsubmenu_content_name: Releasing your Integration
               subsubmenu_content_url: /learn/rest/getting-started/releasing-your-integration
               id: learn-rest-gs-releasing-integration
+              target: _self
+            - subsubmenu_content_name: Three-Legged OAuth
+              subsubmenu_content_url: /learn/rest/getting-started/3lo
+              id: learn-rest-gs-3lo
+              target: _self
+            - subsubmenu_content_name: API
+              subsubmenu_content_url: /learn/rest/getting-started/api
+              id: learn-rest-gs-api
+              target: _self
+            - subsubmenu_content_name: Developer Portal
+              subsubmenu_content_url: /learn/rest/getting-started/developer-portal
+              id: learn-rest-dev-portal
+              target: _self
+            - subsubmenu_content_name: Framework
+              subsubmenu_content_url: /learn/rest/getting-started/framework
+              id: learn-rest-gs-framework
               target: _self
             - subsubmenu_content_name: Rest and Learn
               subsubmenu_content_url: /learn/rest/getting-started/rest-and-learn
@@ -384,19 +384,19 @@
 
             - subsubmenu_content_name: First Steps
               subsubmenu_content_url: /learn/uef/getting-started
-              id: learn-uef-getting-started
+              id: learn-uef-gs-first-steps
               target: _self
             - subsubmenu_content_name: Security and Tokens
               subsubmenu_content_url: /learn/uef/security-and-tokens
-              id: learn-uef-security-and-tokens
+              id: learn-uef-gs-security-and-tokens
               target: _self
             - subsubmenu_content_name: UEF Documentation
               subsubmenu_content_url: /learn/uef/documentation
-              id: learn-uef-documentation
+              id: learn-uef-gs-documentation
               target: _self
             - subsubmenu_content_name: UEF Tutorials
               subsubmenu_content_url: /learn/uef/tutorials
-              id: learn-uef-tutorials
+              id: learn-uef-gs-tutorials
               target: _self
 
 
@@ -555,7 +555,7 @@
               id: standards-caliper-events-calculated-grade-snapshots
               target: _self
             - subsubmenu_content_name: Event Guide
-              subsubmenu_content_url: /standards/caliper/events/caliper-event-guide
+              subsubmenu_content_url: /standards/caliper/events/event-guide
               id: standards-caliper-events-guide
               target: _self
             - subsubmenu_content_name: Course Group Events

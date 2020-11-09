@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "LTI 1.3/Advantage - 4-Part Webinar" 
-purple-text-title: "LTI 1.3/Advantage in Learn - 4-Part Webinar"
 id: standards-lti-gs-four-part-video
 categories: Standards
 author: Mark Bykerk Kauffman
 ---
-
+# LTI 1.3/Advantage in Learn - 4-Part Webinar
 ## Overview
 
 This document contains links to a complete demonstration of setting up and using https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node. Shout out to Scott Hurrey & Eric Preston and the team (everyone you see on the commit list at the repo!) for all their work and help with this. 
