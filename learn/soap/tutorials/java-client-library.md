@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Build Java Client Library"
+status: deprecated
 id: learn-soap-tutorials-build-a-java-client
 categories: Learn soap
 author: Scott Hurrey

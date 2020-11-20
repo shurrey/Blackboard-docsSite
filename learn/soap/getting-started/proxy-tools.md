@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Proxy Tools"
+status: deprecated
 id: learn-soap-gs-proxy-tools
 categories: Learn soap
 author: Scott Hurrey

@@ -3,6 +3,7 @@ layout: post
 title: "Getting Started"
 id: collab-getting-started
 categories: Collaborate
+toc: false
 ---
 # Getting Started
 

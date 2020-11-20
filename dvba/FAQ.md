@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "DVBA FAQ"
+status: deprecated
 id: DBVA-faqs
 categories: DVBA
 author: Mark Kauffman
 ---
+
 # DVBA FAQ
 ## Solution to a PostgreSQL Error in the Developer Virtual Machine
 

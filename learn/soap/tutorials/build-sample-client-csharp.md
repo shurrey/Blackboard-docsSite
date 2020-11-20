@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Build The C# SOAP Sample Client"
+status: deprecated
 id: learn-soap-tutorials-build-a-sample-client-c
 categories: Learn soap
 author: Scott Hurrey

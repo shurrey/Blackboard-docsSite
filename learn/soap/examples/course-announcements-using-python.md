@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Course announcements on Python"
+status: deprecated
 id: learn-soap-examples-course-announcements-py
 categories: Learn soap
 author: Scott Hurrey

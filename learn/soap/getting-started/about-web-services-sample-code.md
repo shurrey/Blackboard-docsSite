@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About Web Services Sample Code"
+status: deprecated
 id: learn-soap-gs-about-web-services-sc
 categories: Learn Soap
 author: Scott Hurrey

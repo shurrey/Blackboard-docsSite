@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "What is DVBA"
+status: deprecated
 id: DBVA-what-is-dvba
 categories: DVBA
+toc: true
 ---
 
 # What is DVBA

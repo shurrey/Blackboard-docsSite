@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Developer Virtual Machine - DVM"
+status: deprecated
 id: DBVA-dvm
 categories: DVBA
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Roles and membership with C#"
+status: deprecated
 id: learn-soap-examples-course-membership-and-role-c
 categories: Learn soap
 author: Scott Hurrey

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Blackboard Learn SOAP"
+status: deprecated
 id: learn-soap-gs-web-services
 categories: Learn Soap
 author: Scott Hurrey

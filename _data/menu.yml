@@ -319,10 +319,6 @@
           type: menu
           subsubmenu_content:
 
-            - subsubmenu_content_name: About Web Services Sample Code
-              subsubmenu_content_url: /learn/soap/getting-started/about-web-services-sample-code
-              id: learn-soap-gs-about-web-services-sc
-              target: _self
             - subsubmenu_content_name: First Steps
               subsubmenu_content_url: /learn/soap/getting-started/first-steps
               id: learn-soap-gs-first-steps
@@ -342,6 +338,10 @@
             - subsubmenu_content_name: Web Services
               subsubmenu_content_url: /learn/soap/getting-started/web-services
               id: learn-soap-gs-web-services
+              target: _self
+            - subsubmenu_content_name: About Web Services Sample Code
+              subsubmenu_content_url: /learn/soap/getting-started/about-web-services-sample-code
+              id: learn-soap-gs-about-web-services-sc
               target: _self
 
         - subsubmenu_item: Tutorials
@@ -499,7 +499,10 @@
       submenu_url: /community/getting-involved
       id: community-getting-involved
       target: _self
-
+    - submenu_item: Contact us
+      submenu_url: /community/contact
+      id: community-contact-us
+      target: _self
 
 - main_item: Mobile
   id: mobile-group
@@ -654,4 +657,26 @@
     - submenu_item: Become a Partner
       id: partners-become-a-partner
       submenu_url: /partners/become-a-partner
+      target: _self
+
+- main_item: Blogs
+  id: blogs-group
+  type: content
+  main_item_icon: chrome_reader_mode
+  sub_item :
+    - submenu_item: Devcon 2020 by the numbers
+      id: 20200803-devcon2020bythenumbers
+      submenu_url: /blogs/devcon2020-by-the-numbers
+      target: _self
+    - submenu_item: Ally as a service and UEF documentation available
+      id: 20200903-allyasaserviceanduefdocs
+      submenu_url: /blogs/ally-as-a-service-and-uef-docs
+      target: _self
+    - submenu_item: Changes that impact Learn B2 integrations
+      id: 20201004-changesthatimpactlearnb2
+      submenu_url: /blogs/changes-that-impact-learn-b2-integrations
+      target: _self
+    - submenu_item: In orbit at DevCon 2020
+      id: 20200710-inorbitatdevcon2020
+      submenu_url: /blogs/in-orbit-at-devcon-2020
       target: _self

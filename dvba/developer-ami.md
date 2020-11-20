@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Developer AMI"
+status: deprecated
 id: DBVA-dev-ami
 categories: DVBA
 ---

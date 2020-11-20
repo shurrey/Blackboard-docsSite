@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introduction to SOAP Web Services"
+status: deprecated
 id: learn-soap-gs-intro
 categories: Learn soap
 author: Scott Hurrey

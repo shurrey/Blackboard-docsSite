@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
+status: deprecated
 id: learn-soap-gs-first-steps
 categories: Learn soap
 author: Scott Hurrey

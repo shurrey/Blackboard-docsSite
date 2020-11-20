@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SOAP to REST"
+status: deprecated
 id: learn-soap-gs-soap-to-rest
 categories: Learn soap
 author: Scott Hurrey
@@ -19,16 +20,6 @@ back-ported to previous releases. To be sure the endpoint you require is
 available, be sure to visit the [Developer
 Portal](https://developer.blackboard.com/portal/displayApi)
 and check the individual endpoints you need.
-
-  * [Announcements](#announcements)
-  * [Calendar](#calendar)
-  * [Content](#content)
-  * [Context](#context)
-  * [Courses](#courses)
-  * [Course Memberships](#course-memberships)
-  * [Gradebook](#gradebook)
-  * [Users](#users)
-  * [Util](#util)
 
 ## Announcements
 

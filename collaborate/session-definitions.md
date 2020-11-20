@@ -3,6 +3,7 @@ layout: post
 title: Session Definitions
 id: collab-session-definitions
 categories: Collaborate
+toc: false
 ---
 
 # Session Definitions

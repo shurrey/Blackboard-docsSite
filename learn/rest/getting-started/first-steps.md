@@ -20,7 +20,7 @@ used resources include:
   * Blackboard's [developer portal](/learn/rest/developer-portal){:target="_blank"}
   * Blackboard's [Github repos](https://github.com/search?utf8=%E2%9C%93&q=BBDN-REST){:target="_blank"}
 
-### Before You Get Started
+## Before You Get Started
 
 Blackboard offers lots of tools to help you develop an application, plugin, or
 other integration for use with Blackboard products like Blackboard Learn and
@@ -71,7 +71,7 @@ community:
   4. In your email's inbox, find the email sent by Blackboard. You might have to check your spam or junk folder. The email's subject is something like _Blackboard Community: Email Validation_. Select the link in your email. You will be taken to a registration page.
   5. In the registration page, complete all the required fields and select **Create Account**.
 
-### What Blackboard Application Do I Need?
+#### What Blackboard Application Do I Need?
 
 Your Blackboard-compatible application can work with one or more of
 Blackboard's tools. How you build an integration with Blackboard software and
@@ -105,7 +105,7 @@ _I want to programmatically..._ _You'll need to..._
 1. [Authenticate with Blackboard Collaborate](/collaborate/security-and-tokens) via REST API
 2. heck out our [Collaborate REST API reference](/collaborate/api){:target="_blank"}
 
-### Get Development Instances of Blackboard Applications
+#### Get Development Instances of Blackboard Applications
 
 Blackboard makes available instances of Blackboard applications that you can
 use to build projects that integrate with Blackboard applications. Among
@@ -162,7 +162,7 @@ Once you have registered with the developer portal and built an integration, dep
 | CRUD | Create, Read, Update, Delete |
 {: .striped}
 
-### More Information
+#### More Information
 
 We will continue to add new examples, tutorials, and code samples, so make
 sure to check these links regularly.
