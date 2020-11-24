@@ -1,7 +1,3 @@
-- main_item: Home
-  main_item_icon: home
-  id: home
-
 - main_item: Learn
   main_item_icon: school
   id: learn-group
