@@ -676,3 +676,7 @@
       id: 20200710-inorbitatdevcon2020
       submenu_url: /blogs/in-orbit-at-devcon-2020
       target: _self
+    - submenu_item: Cookies and Browsers
+      id: 20201015-cookiesandbrowsers
+      submenu_url: /blogs/cookies-and-browsers
+      target: _self
