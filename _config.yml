@@ -36,6 +36,11 @@ sass:
   sass_dir:           _sass
   style:              compressed
   
+tipue_search:
+  include:
+    pages: true
+    collections: [ally, blogs, collaborate, community, dvba, learn, legal, mobile, partners, standards]
+
 
 defaults:
   -

@@ -10,7 +10,7 @@ categories: DVBA
 
 This document outlines usage of the Blackboard REST and LTI Developer AMI made available via the Amazon AWS Marketplace.
 
-#### Overview
+## Overview
 
 The Blackboard REST and LTI Developer Amazon Machine Image (“AMI”) is an image of a Blackboard Learn server available in the Amazon Marketplace. The AMI allows a developer to spin up a copy of Blackboard Learn for building applications that use the REST APIs and/or Learning Tool Interoperability (“LTI”) to integrate with Learn. This image is a standalone copy of the SaaS deployment of Blackboard Learn that allows development and testing against the Ultra user experience. Once the developer spins up the copy of Learn, it lives in his or her AWS account and the developer has full control over the instance of Learn. All instances are pre-licensed with a developer license. New developer AMIs will be made available in the same cadence as SaaS releases. Please note that there is often a delay of 5-14 days before the AMI is available due to AMI and AWS processing time.
 
@@ -18,7 +18,7 @@ This program allows a developer to build an integration for Blackboard Learn wit
 
 **NOTE:** Building Block installation is NOT supported on the AMIs.
 
-#### Get the Blackboard REST and LTI Developer AMI
+### Get the Blackboard REST and LTI Developer AMI
 
 The easiest way to find the Developer AMI is by searching the Amazon Marketplace for Blackboard Learn. The results show all of the currently available AMIs. Given the cadence or releases, you should locate the Learn instance you want.
 
@@ -46,7 +46,7 @@ Before you begin, you must have an Amazon AWS account. If you do not have an AWS
 8. Startup time: The startup time for your EC2 will vary and may take as long as 15 minutes before you may access the site via your browser. SSH access may be available in 3 minutes or less.
 9. On initial startup the Original UX login screen appears. Note the messaging on that page as it informs you when the license expires. You will need to subscribe to a new AMI release prior to license expiration if you wish to migrate data from the old EC2 to the new. Licenses on AMIs are not extendible.
 
-#### Support for Let’s Encrypt SSL Certificates
+### Support for Let’s Encrypt SSL Certificates
 
 Starting with version 3300.6.0 the Learn for REST and LTI Developers AMI supports free Let’s Encrypt SSL Certificates. At this time we do not support alternative SSL certificate processes.
 
@@ -108,7 +108,7 @@ The first time you go to login, you will see text on the page like the following
 
 Landing page seen the first time you login to the developer AMI
 
-##### Configure Your AMI-based Blackboard Learn Instance
+### Configure Your AMI-based Blackboard Learn Instance
 When you set up your instance of Blackboard Learn, you can configure different options. These options are discussed in Enable Learn Tool Interoperability (LTI) Links and Text.
 
 #### Triage Your AMI-based Blackboard Learn Instance
@@ -129,7 +129,7 @@ Note that not stopping your EC2 when you encounter an error will continue to inc
 
 The above restarts the instance and will typically correct the 504 error.
 
-#### Migration Cookbook - Recreating Data between AMIs
+### Migration Cookbook - Recreating Data between AMIs
 
 Currently, there is no formal migration/transfer tool to port Blackboard Learn data between AMI (EC2) instances. However, there are several existing administrative tools that can be leveraged to capture the bulk of T&L (teaching/learning data) like courses, users, institutional roles, and enrollments, etc. from an existing (source) EC2 and reinstate/recreate the data onto a (new) EC2. The resources linked below will guide you through this data transfer process:
 

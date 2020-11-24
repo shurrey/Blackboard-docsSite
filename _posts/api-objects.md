@@ -3,7 +3,6 @@ layout: post
 title: "API Objects"
 id: collab-api-objects
 categories: Collaborate
-tipue_search_active: true
 toc: false
 ---
 
